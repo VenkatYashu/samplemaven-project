@@ -1,4 +1,4 @@
-# web3j Sample Maven Project
+# web3j Sample Maven Project for testing
 
 This project provides a very simple starter application for working with web3j and the test 
 Ethereum network (testnet) known as Rinkeby.
